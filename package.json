@@ -1,0 +1,22 @@
+{
+  "name": "midterm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claytongentry/j320_midterm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claytongentry/j320_midterm/issues"
+  },
+  "homepage": "https://github.com/claytongentry/j320_midterm#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
